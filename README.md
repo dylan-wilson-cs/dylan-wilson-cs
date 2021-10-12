@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylan-wilson-cs&label=Profile%20views&color=0e75b6&style=flat" alt="dylan-wilson-cs" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](dylanwilson.me)
+- 🔭 I’m currently working on a freelance perfume project. 
 
 - 🌱 I’m currently learning **Java, PHP, MySQL, Node, React, and more!**
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 👨‍💻 All of my projects are available at [dylanwilson.me](dylanwilson.me)
+- 👨‍💻 All of my projects are available at [dylanwilson.me](https://dylanwilson.me/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap 5, JS, and Python.**
 
