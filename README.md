@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylan-wilson-cs&label=Profile%20views&color=0e75b6&style=flat" alt="dylan-wilson-cs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylan-wilson-cs" alt="dylan-wilson-cs" /></a> </p>
-
 - 🔭 I’m currently working on **a platform to help new devs get the resources they need.**
 
 - 🌱 I’m currently learning **MongoDB, Express, React, and Node.**
