@@ -2,13 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylan-wilson-cs&label=Profile%20views&color=0e75b6&style=flat" alt="dylan-wilson-cs" /> </p>
 
-- 🔭 I’m currently working on **a platform to help new devs get the resources they need.**
+- 🔭 I’m currently working on **a fullstack web app for DnD players to log their experiences in a campaign.**
 
 - 🌱 I’m currently learning **MongoDB, Express, React, and Node.**
 
 - 👯 I’m looking to collaborate on **any open source projects that help people!**
-
-- 🤝 I’m looking for help with **the platform mentioned aboved.**
 
 - 👨‍💻 All of my projects are available at [dylanwilson.me](dylanwilson.me)
 
