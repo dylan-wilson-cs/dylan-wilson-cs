@@ -1,3 +1,4 @@
+<center>
 # 💫About Me :
 - 🔭 I’m currently working on **a fullstack web app for DnD players to log their experiences in a campaign.**
 
@@ -30,3 +31,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dylan-wilson-cs&icon=0&color=1)](https://visitcount.itsvg.in)
+</center>
