@@ -1,7 +1,7 @@
 # 💫About Me :
 - 🔭 I’m currently working on **a fullstack web app for DnD players to log their experiences in a campaign.**
 
-- 🌱 I’m currently learning **MongoDB, Express, React, and Node.**
+- 🌱 I’m currently learning **Svelte and Typescript.**
 
 - 👯 I’m looking to collaborate on **any open source projects that help people!**
 
