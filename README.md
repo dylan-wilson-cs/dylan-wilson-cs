@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any open source projects that help people!**
 
-- 👨‍💻 All of my projects are available at [dylanwilson.me](dylanwilson.me)
+- 👨‍💻 All of my projects are available at [dylanwilson.me](https://dylanwilson.me/)
 
 - 💬 Ask me about **JS, PHP, or MySQL.**
 
